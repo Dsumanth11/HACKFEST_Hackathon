@@ -3,8 +3,11 @@
 This Tool help us Detect vulnerabilities in Sources code
 
 1:Find The Phish Tool
+
 2:Check Syntax Error
+
 3:Check logical Error
+
 4:Find SQL injection
 
 # Terminal Output
