@@ -1,5 +1,3 @@
-# HACKFEST_Hackathon
-
 # RadiumX Tool 
 
 This Tool help us Detect vulnerabilities in Sources code
