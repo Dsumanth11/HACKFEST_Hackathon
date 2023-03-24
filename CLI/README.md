@@ -40,8 +40,6 @@ This tool is only for educational purposes. If you use this tool for other purpo
 
 # THANKS TO :
 
-Disha AND
-Sainath
 :)
 
 
